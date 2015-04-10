@@ -1,0 +1,140 @@
+#EXTM3U
+#EXTINF:0,Discovery
+
+https://sites.google.com/site/apitvbg/Discovery.m3u?attredirects=0
+
+#EXTINF:0,Animal planet
+
+https://sites.google.com/site/apitvbg/Animal.m3u?attredirects=0
+
+#EXTINF:0,Diema sport
+
+https://sites.google.com/site/apitvbg/diema-sp.m3u?attredirects=0
+
+#EXTINF:0,VH1
+
+https://sites.google.com/site/apitvbg/VH1.m3u?attredirects=0
+
+#EXTINF:0,DM sat
+
+https://sites.google.com/site/apitvbg/DM_Sat.m3u?attredirects=0
+
+#EXTINF:0,IConcerts
+
+https://sites.google.com/site/apitvbg/iConcerts.m3u?attredirects=0
+
+#EXTINF:0,MTV
+
+https://sites.google.com/site/apitvbg/MTV.m3u?attredirects=0
+
+#EXTINF:0,Cartoon network
+
+https://sites.google.com/site/apitvbg/Cartoon_Network.m3u?attredirects=0
+
+#EXTINF:0,Discovery Science
+
+https://sites.google.com/site/apitvbg/Discovery_Science.m3u?attredirects=0
+
+#EXTINF:0,Discovery World
+
+https://sites.google.com/site/apitvbg/Discovery_World.m3u?attredirects=0
+
+#EXTINF:0,Viasat Explore
+
+https://sites.google.com/site/apitvbg/Viasat_Explorer.m3u?attredirects=0
+
+#EXTINF:0,Viasat History
+
+https://sites.google.com/site/apitvbg/Viasat_History.m3u?attredirects=0
+
+#EXTINF:0,Viasat Nature
+
+https://sites.google.com/site/apitvbg/Viasat_Nature.m3u?attredirects=0
+
+#EXTINF:0,Eurosport
+
+https://sites.google.com/site/apitvbg/eurosport.m3u?attredirects=0
+
+#EXTINF:0,Eurosport 2
+
+https://sites.google.com/site/apitvbg/eurosport2.m3u?attredirects=0
+
+#EXTINF:0,Ring HD
+
+https://sites.google.com/site/apitvbg/ring.m3u?attredirects=0
+
+#EXTINF:0,Kino Nova
+
+https://sites.google.com/site/apitvbg/diem2.m3u?attredirects=0
+
+#EXTINF:0,Film plus
+
+https://sites.google.com/site/apitvbg/filmplus.m3u?attredirects=0
+
+#EXTINF:0,TV 1000
+
+https://sites.google.com/site/apitvbg/tv1000.m3u?attredirects=0
+
+#EXTINF:0,HBO Comedy
+
+https://sites.google.com/site/apitvbg/hbo-c.m3u?attredirects=0
+
+#EXTINF:0,HBO
+
+https://sites.google.com/site/apitvbg/hbo.m3u?attredirects=0
+
+#EXTINF:0,Fen
+
+https://sites.google.com/site/apitvbg/fen.m3u?attredirects=0
+
+#EXTINF:0,AXN Black
+
+https://sites.google.com/site/apitvbg/axn-s.m3u?attredirects=0
+
+#EXTINF:0,AXN White
+
+https://sites.google.com/site/apitvbg/axn-c.m3u?attredirects=0
+
+#EXTINF:0,AXN
+
+https://sites.google.com/site/apitvbg/axn.m3u?attredirects=0
+
+#EXTINF:0,b cinema
+
+https://sites.google.com/site/apitvbg/btv-s.m3u?attredirects=0
+
+#EXTINF:0,super 7
+
+https://sites.google.com/site/apitvbg/super7.m3u?attredirects=0
+
+#EXTINF:0,Planeta
+
+https://sites.google.com/site/apitvbg/Planeta.m3u?attredirects=0
+
+#EXTINF:0,Diem Family
+
+https://sites.google.com/site/apitvbg/diem-f.m3u?attredirects=0
+
+#EXTINF:0,Diema
+
+https://sites.google.com/site/apitvbg/diem.m3u?attredirects=0
+
+#EXTINF:0,b lady
+
+https://sites.google.com/site/apitvbg/btv-l.m3u?attredirects=0
+
+#EXTINF:0,b comedy
+
+https://sites.google.com/site/apitvbg/btv-c.m3u?attredirects=0
+
+#EXTINF:0,b action
+
+https://sites.google.com/site/apitvbg/btv-a.m3u?attredirects=0
+
+#EXTINF:0,TV plus
+
+https://sites.google.com/site/apitvbg/tvplus.m3u?attredirects=0
+
+#EXTINF:0,TLC
+
+https://sites.google.com/site/apitvbg/tlc.m3u?attredirects=0
